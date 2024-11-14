@@ -5,7 +5,7 @@ export const dataService = async <T>(): Promise<T> => {
     { id: 'X7R2OPX', name: 'React T-Shirt', price: 21.00 },
     { id: 'X2G2OPZ', name: 'React Coffee Mug', price: 5.00 },
     { id: 'X3W2OPY', name: 'React Cap', price: 11.00 },
-    { id: 'X4J2OPW', name: 'React Sticker', price: 2.00 },
+    { id: 'X4J2OPW', name: 'React Sticker', price: 3.00 },
   ];
   
   const discountRulesMock: Partial<DiscountRule>[] = [
