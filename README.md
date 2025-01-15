@@ -1,4 +1,4 @@
-# React Shopping Cart.
+# React Shopping Cart
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3015988c-0069-4d65-8e29-4a7e3ceaa9c5/deploy-status)](https://app.netlify.com/sites/deeleman-react-shopping-cart/deploys) 
 [![Build Status](https://travis-ci.org/deeleman/react-shopping-cart.svg?branch=master)](https://travis-ci.org/deeleman/react-shopping-cart)
