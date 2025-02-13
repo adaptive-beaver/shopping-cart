@@ -25,7 +25,11 @@ export const Products: React.FunctionComponent<ProductsProps> = ({ isLoading, ch
           <div className="col-total">Total</div>
         </li>
       </ul>
-      {children}
+         {children ? (
+          children
+        ) : (
+          <p className="no-products">No products available. Please check back later.</p>
+        )}
     </>
     )}
   </section>
